@@ -1,0 +1,12 @@
+C:\Users\genar\source\repos\Chronometer\Chronometer\bin\Debug\Chronometer.exe.config
+C:\Users\genar\source\repos\Chronometer\Chronometer\bin\Debug\Chronometer.exe
+C:\Users\genar\source\repos\Chronometer\Chronometer\bin\Debug\Chronometer.pdb
+C:\Users\genar\source\repos\Chronometer\Chronometer\bin\Debug\DisplayLibrary.dll
+C:\Users\genar\source\repos\Chronometer\Chronometer\bin\Debug\DisplayLibrary.pdb
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.csprojResolveAssemblyReference.cache
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.FormChronometer.resources
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.Properties.Resources.resources
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.GenerateResource.Cache
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.CoreCompileInputs.cache
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.exe
+C:\Users\genar\source\repos\Chronometer\Chronometer\obj\Debug\Chronometer.pdb

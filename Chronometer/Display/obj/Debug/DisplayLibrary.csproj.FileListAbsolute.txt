@@ -1,0 +1,6 @@
+C:\Users\genar\source\repos\Chronometer\Display\bin\Debug\DisplayLibrary.dll
+C:\Users\genar\source\repos\Chronometer\Display\bin\Debug\DisplayLibrary.pdb
+C:\Users\genar\source\repos\Chronometer\Display\obj\Debug\DisplayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\genar\source\repos\Chronometer\Display\obj\Debug\DisplayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\genar\source\repos\Chronometer\Display\obj\Debug\DisplayLibrary.dll
+C:\Users\genar\source\repos\Chronometer\Display\obj\Debug\DisplayLibrary.pdb
